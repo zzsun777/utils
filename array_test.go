@@ -1,4 +1,4 @@
-package webhelpers
+package utils
 
 import (
 	"testing"
